@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi there, I'm 서연 👋
 
+I'm a student at Gachon University, interested in data analysis, smart building systems, and sustainability.
+
+- 🌱 Currently learning Git & GitHub
+- 📫 Feel free to reach out!
 <!--
 **lillian05-coder/lillian05-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
